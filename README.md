@@ -3,7 +3,7 @@
 ## Team Details  
 - Team Name: Craxy AVS
 - Team Members: Anjali Sahu, Sejal Mudaliar, Vaibhav Kumar Sahu
-- [📂 View the Presentation](./presentation/my_slides.pptx)
+- View the Presentation - please find the attached PPt in the repository (Women Safety Device.pptx)
 
    
 ## Problem Statement  
@@ -49,8 +49,8 @@ The Arduino Nano processes the signal, fetches location via GPS, and sends an SM
 Emergency contacts receive the alert with the user’s real-time location link.
 
 ## Live Demo / Deployment  
-Live Demo - Please find the attached video in the repository (Live_Demo.mp4)
-Code for the Arduino nano - please find the code in the repository (sketch_aug21a.ino)
+Live Demo - Please find the attached video in the repository (Live Demo.mp4).
+Code for the Arduino nano - please find the code in the repository (sketch_aug21a.ino).
 
 ## Future Enhancements  
 Mobile App Integration: Add a smartphone app to provide real-time location tracking, alerts, and monitoring.
