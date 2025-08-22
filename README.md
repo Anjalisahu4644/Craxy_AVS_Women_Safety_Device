@@ -3,6 +3,8 @@
 ## Team Details  
 - Team Name: Craxy AVS
 - Team Members: Anjali Sahu, Sejal Mudaliar, Vaibhav Kumar Sahu
+- [📂 View the Presentation](./presentation/my_slides.pptx)
+
    
 ## Problem Statement  
 Women continue to face harassment and unsafe situations, and existing solutions like mobile apps are often slow, bulky, or unreliable in emergencies. There is a need for a compact, affordable, and easy-to-use device that can instantly send SOS alerts and share real-time location for immediate help.
@@ -47,3 +49,14 @@ The Arduino Nano processes the signal, fetches location via GPS, and sends an SM
 Emergency contacts receive the alert with the user’s real-time location link.
 
 ## Live Demo / Deployment  
+![Demo Video]("C:\Users\ANJALI SAHU\OneDrive\Documents\Live Demo.mp4")
+Code for the Arduino nano - please find the code in the repository (./sketch_aug21a.ino)
+
+## Future Enhancements  
+Mobile App Integration: Add a smartphone app to provide real-time location tracking, alerts, and monitoring.
+AI-Based Threat Detection: Use sensors and AI to detect unusual movements, panic situations, or sudden falls.
+Voice Activation: Enable SOS triggering through voice commands for hands-free operation.
+Integration with Police/Emergency Services: Directly alert local authorities or helplines for quicker response.
+Smaller & Smarter Design: Miniaturize the device further, add waterproofing, and improve durability.
+Cloud Storage: Store emergency logs and tracking history for better data access and analysis.
+Health Monitoring Features: Include sensors to track vitals (heart rate, pulse) and send alerts in medical emergencies.
